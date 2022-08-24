@@ -20,7 +20,7 @@
             "email": "andrew.hart14@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "require": {}
 }
  
