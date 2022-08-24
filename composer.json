@@ -3,17 +3,6 @@
     "description": "Test app for composer and drupal",
     "type": "library",
     "license": "MIT",
-    "autoload": {
-        "psr-4": {
-            "Andrewhart\\HelloWorld\\": "src/"
-        }
-    },
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/ahart14/composer-hello-world.git"
-        }
-    ],
     "authors": [
         {
             "name": "Andy Hart",
@@ -21,6 +10,9 @@
         }
     ],
     "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {"ahart14\\HelloWorld\\": "src/"}
+    },
     "require": {}
 }
  
