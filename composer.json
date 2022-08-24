@@ -1,6 +1,6 @@
 {
     "name": "ahart14/composer_hello_world",
-    "description": "Test app for composer and drupal",
+    "description": "Test app for Composer and Drupal",
     "type": "library",
     "license": "MIT",
     "authors": [
